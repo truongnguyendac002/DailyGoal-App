@@ -1,9 +1,12 @@
 # DailyGoal-App
 Website: https://lemon-cliff-0fbc99100.4.azurestaticapps.net/
-## Video Demo
-[![Watch the video](https://img.youtube.com/vi/yo6ACQgEIhM/maxresdefault.jpg)](https://youtu.be/yo6ACQgEIhM)
 
-### [Watch this video on YouTube](https://youtu.be/yo6ACQgEIhM)
+[//]: # (## Video Demo)
+
+[//]: # ([![Watch the video]&#40;https://img.youtube.com/vi/yo6ACQgEIhM/maxresdefault.jpg&#41;]&#40;https://youtu.be/yo6ACQgEIhM&#41;)
+
+[//]: # ()
+[//]: # (### [Watch this video on YouTube]&#40;https://youtu.be/yo6ACQgEIhM&#41;)
 
 ## How to Run the System
 

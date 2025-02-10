@@ -1,12 +1,10 @@
 # DailyGoal-App
 Website: https://m.coffeeshoppro.online
 
-[//]: # (## Video Demo)
+## Video Demo
+[![Watch the video](https://img.youtube.com/vi/dP_Nou8Ij7c/maxresdefault.jpg)](https://youtu.be/dP_Nou8Ij7c)
 
-[//]: # ([![Watch the video]&#40;https://img.youtube.com/vi/yo6ACQgEIhM/maxresdefault.jpg&#41;]&#40;https://youtu.be/yo6ACQgEIhM&#41;)
-
-[//]: # ()
-[//]: # (### [Watch this video on YouTube]&#40;https://youtu.be/yo6ACQgEIhM&#41;)
+### [Watch this video on YouTube](https://youtu.be/dP_Nou8Ij7c)
 
 ## How to Run the System
 

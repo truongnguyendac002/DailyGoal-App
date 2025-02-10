@@ -1,5 +1,5 @@
 # DailyGoal-App
-Website: https://lemon-cliff-0fbc99100.4.azurestaticapps.net/
+Website: https://m.coffeeshoppro.online
 
 [//]: # (## Video Demo)
 

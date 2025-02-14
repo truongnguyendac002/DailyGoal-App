@@ -1,5 +1,4 @@
 # DailyGoal-App
-Website: https://m.coffeeshoppro.online
 
 ## Video Demo
 [![Watch the video](https://img.youtube.com/vi/dP_Nou8Ij7c/maxresdefault.jpg)](https://youtu.be/dP_Nou8Ij7c)
